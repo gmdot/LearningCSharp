@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using CriandoEUsandoClasses.Models;
+
+Pessoa p  = new Pessoa();
+
+p.Apresentar();
