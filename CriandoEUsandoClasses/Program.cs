@@ -1,4 +1,5 @@
-﻿using CriandoEUsandoClasses.Models;
+﻿//instanciando a classe no programa
+using CriandoEUsandoClasses.Models;
 
 Pessoa p  = new Pessoa();
 
