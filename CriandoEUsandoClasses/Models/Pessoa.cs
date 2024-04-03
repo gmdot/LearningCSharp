@@ -10,12 +10,8 @@ namespace CriandoEUsandoClasses.Models
     {
         public string Nome { get; set; }
         public int Idade { get; set; }
-
         public void Apresentar()
         {
-            Nome = "Gustavo";
-            Idade = 18;
-
             Console.WriteLine($"Olá, meu nome é {Nome} e eu tenho {Idade} anos");
         }
     }
