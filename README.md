@@ -1,2 +1,2 @@
 # Estou usando esse repositório para guardar meus aprendizados em C#
-<a href="https://github.com/gmdot/LearningCSharp/tree/master/CriandoEUsandoClasses" style="font-weight:600">Criando e usando classes com C#</a>
+<a href="https://github.com/gmdot/LearningCSharp/tree/master/CriandoEUsandoClasses" style="font-weight:600; font-decoration:none">Criando e usando classes com C#</a>
